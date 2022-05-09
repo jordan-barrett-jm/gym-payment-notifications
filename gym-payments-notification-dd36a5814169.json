@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gym-payments-notification",
+  "private_key_id": "dd36a5814169473df2a3dc6f0acb4b9485208abe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxfS573QQ54HrJ\nKx/PhI/r46fIGNODzfrOBC6fZAFvqsHP3Kd9QFvEJ8NuEBLC3pvzOlXsOjxVpgq5\nk7vI0Q/HY/aryOd2OYTS4w7enzE8zNi0tE+aJ3B4mZ/VW0gzgflDjNWqgIKEuFvD\nzCUFcijLao1F3JNvhDa19a7QJB14cwNep191Vuw3+w+OZRW+nYaDSskOIqwPWECf\nU4FSq1s7781xFX8N8p9KqE1PGmOxyEvEyFtfo94zz7VqG/p41y1DKxMgtYgGoh/G\njeWOEsliSEzOxYggq/CNqwktaJiBl7XHP6u8s+YkTUns2nFehiLq623F+2ZPvQrF\nRfZW7aMXAgMBAAECggEACMP/7woZUqpte1CalOsdGISjx/7B43k2xm9FG4Ya3rhL\niMfYVcKUmvlubhnJHhVUamIagDzYDKV9/hr3uTvp+upK8mz3pspsbuXb2Xl55bYl\niwx5/0kCBagV/A7dX/3ZS6bBnqwTcMPndEy5agLF/6ssKE5z0Zwb/5yPR6RLovkm\nF6vdmLbVhS+bnsa8Ky0E+5l8Yqtyf+hmADMzplFCmnMFO1JJg8oXksr7pnP2GiaV\nr6sVtnkb+94x1EtRr1yDTQwVYEuFhDrlt1Miat0WEP7G4IdLD6BdpoWJ7CfS0Qnq\nHwwLZA1gikvzXs4UFWSoUN0AezxYkzYABJBudVExsQKBgQDd8CyYO3ZVb+rDFVhM\n6xdiHFnzNmuyhCc/nl2HoEeeqPjIcsx6JrFZAuJ9obh1vw5FAHsnOEDrQLCgvhXW\npToOZ3j+8Vi6xJb1TEH55VcpodaYb1YKZfX7sZ7hDs6qTeaRMd5XNLfTF1uiTNBg\n7LIpGG7XKl8mJvTkQaq7FuDOgwKBgQDMup+xnS9ZCLnP1+8ucT+T+xKVSjP0sN/c\nakVzOQpkspRV9U59VKV1I6l17JUw58HlXoasukcSZ4iCoFUuvY6sUAMXDh/3nn9w\nHYgNWmqp+Ykt3OrbaLWlApqYgnAKFIYhL36PbAe7wcQfhjFh8/UqXvVWT+5q56so\nXiIVnxh03QKBgFBcUKlmjnhtJ8IvjmN7lGHwBhnskJ54/4UnoJIlVQl8AWkDOEra\ni8jBJKV80z+/SDlv7SfMVKVaLRpm+Z1ZAmaIzOTzGr+1wztau2Dyy9bFROC5H5xw\nQts5+19ebzJ3No9IUUueSRlkEcf4rFMMIY6DzE6Yhw9Xd8DWji1kIU5lAoGBAKDB\n5kWsnJI4BNfMwjZgnMDRRK1Pf+6iuJW2KOSqJJwfkdTRc5l8TxPlNdqwNBIb2agH\nCo81EjvEam/QADNci1yI03RWFgn1PjJGLh/2II1psSr/Lresx/1TRxt8SQfRR+Vl\nCucJuCTZqOvsDnjQ/HER8WmeCCOP2FkxWWhK7gRNAoGAAw2Hf5/tCJzXhCAvfWlk\nqJc8rB3jDC0D474CauI6cWAVK0MEoK8le7fJOAr6vkgoOWaS3OYLNt9QizGl2Sdt\niekftCJKd2SykItT2qemPm9PKdYE/a7gogzokgRq+jpu52BXPL6IGsIH6DVd8/Bs\nHcp3RAjFvGDOYohd7CwhURY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gymnotifications@gym-payments-notification.iam.gserviceaccount.com",
+  "client_id": "114691991343548481626",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gymnotifications%40gym-payments-notification.iam.gserviceaccount.com"
+}

@@ -1,0 +1,8 @@
+2022-05-09 18:02:29,636 - INFO - Loaded global variables
+2022-05-09 18:04:57,402 - ERROR - name 'client' is not defined
+2022-05-09 18:05:13,750 - DEBUG - Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2022-05-09 18:05:15,079 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2022-05-09 18:05:15,092 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2022-05-09 18:05:15,354 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2022-05-09 18:05:15,361 - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2022-05-09 18:05:15,933 - DEBUG - https://www.googleapis.com:443 "GET /drive/v3/files?q=mimeType%3D%22application%2Fvnd.google-apps.spreadsheet%22+and+name+%3D+%22customer+sheets%22&pageSize=1000&supportsAllDrives=True&includeItemsFromAllDrives=True&fields=kind%2CnextPageToken%2Cfiles%28id%2Cname%2CcreatedTime%2CmodifiedTime%29 HTTP/1.1" 200 None

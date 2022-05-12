@@ -1,4 +1,4 @@
-.env
-.json
-.log
+*.env
+*.json
+*.log
 .ipynb_checkpoints

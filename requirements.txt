@@ -1,5 +1,6 @@
-gspread
+gspread >= 3.7.0
 pandas
 oauth2client
 mailjet_rest
 numpy
+python-dotenv

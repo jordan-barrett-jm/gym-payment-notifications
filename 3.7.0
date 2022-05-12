@@ -1,0 +1,6 @@
+Requirement already satisfied: gspread in c:\users\jordan-pc\appdata\local\programs\python\python36-32\lib\site-packages (3.0.0)
+Requirement already satisfied: requests>=2.2.1 in c:\users\jordan-pc\appdata\local\programs\python\python36-32\lib\site-packages (from gspread) (2.18.4)
+Requirement already satisfied: idna<2.7,>=2.5 in c:\users\jordan-pc\appdata\local\programs\python\python36-32\lib\site-packages (from requests>=2.2.1->gspread) (2.6)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\users\jordan-pc\appdata\local\programs\python\python36-32\lib\site-packages (from requests>=2.2.1->gspread) (3.0.4)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\jordan-pc\appdata\local\programs\python\python36-32\lib\site-packages (from requests>=2.2.1->gspread) (2018.4.16)
+Requirement already satisfied: urllib3<1.23,>=1.21.1 in c:\users\jordan-pc\appdata\local\programs\python\python36-32\lib\site-packages (from requests>=2.2.1->gspread) (1.22)

@@ -17,7 +17,7 @@ Process:
 """
 
 
-# In[ ]:
+# In[1]:
 
 
 import gspread
@@ -31,16 +31,7 @@ from os.path import join, dirname
 from dotenv import load_dotenv
 
 
-# In[ ]:
-
-
-#set up logging
-import logging
-
-logging.basicConfig(filename='app.log', filemode='a', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
-
-
-# In[ ]:
+# In[5]:
 
 
 #load .env file
@@ -50,9 +41,19 @@ OWNER_EMAIL = os.environ.get("OWNER_EMAIL")
 MAILJET_KEY = os.environ.get("MAILJET_KEY")
 MAILJET_SECRET = os.environ.get("MAILJET_SECRET")
 GOOGLE_SHEETS_KEY = os.environ.get("GOOGLE_SHEETS_KEY")
+LOG_PATH = os.environ.get("LOG_PATH")
 
 
-# In[ ]:
+# In[6]:
+
+
+#set up logging
+import logging
+
+logging.basicConfig(filename=LOG_PATH, filemode='a', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+
+
+# In[4]:
 
 
 # define the scope
